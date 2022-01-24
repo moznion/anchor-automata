@@ -7,7 +7,7 @@ A library to make automation for [Anchor.fm](https://anchor.fm).
 THIS LIBRARY IS UNDER-DEVELOPMENT STATUS. DON'T USE THIS ON THE PRODUCTION GROUND.
 
 And this won't cover all the functions, i.e. this library implements the functions what I wanted.
-But of course, feature requests are welcome.
+But of course, feature requests and patches are welcome.
 
 ## Example
 
@@ -45,6 +45,10 @@ import { Signin, Publish } from '@moznion/anchor-automata';
 
 - sign-in
 - publish an episode
+
+## Anatomy
+
+This library uses [Puppeteer](https://github.com/puppeteer/puppeteer) to make it automated, instead of REST API and similar application interfaces.
 
 ## Author
 
