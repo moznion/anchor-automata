@@ -46,7 +46,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "puppeteer": "^13.1.1",
+    "puppeteer": "^15.0.0",
     "tmp-promise": "^3.0.3"
   },
   "devDependencies": {
