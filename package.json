@@ -59,6 +59,6 @@
     "eslint-plugin-import": "2.25.4",
     "eslint-plugin-prefer-arrow": "1.2.3",
     "jest": "27.4.7",
-    "prettier": "2.5.1"
+    "prettier": "2.8.8"
   }
 }
